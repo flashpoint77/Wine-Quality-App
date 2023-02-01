@@ -1,5 +1,6 @@
 import numpy as np
 from flask import Flask, request, jsonify, render_template
+from markupsafe import escape
 import pickle
 
 # Create flask app
