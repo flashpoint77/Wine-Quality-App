@@ -3,16 +3,9 @@ gunicorn==20.1.0
 Jinja2==3.1.0
 jinja2-time==0.2.0
 MarkupSafe==2.1.2
-nbclient==0.5.3
 nbconvert==6.1.0
 numpy==1.20.3
 pandas==1.3.4
 pickle4==0.0.1
-pickleshare==0.7.5
-pip==21.2.4
-PyYAML==6.0
-scikit-image==0.18.3
 scikit-learn==0.24.2
-scikit-learn-intelex==2021.20210714.120553
-watchdog==2.1.3
 Werkzeug==2.2.2
