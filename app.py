@@ -23,4 +23,4 @@ def predict():
 
 
 if __name__ == "__main__":
-    flask_app.run(host="0.0.0.0", port=PORT, debug=DEBUG_MODE)
+    flask_app.run(debug=True)
